@@ -3,3 +3,6 @@
 - Use Web Scrapping for the Training Dataset, using classes from Test Dataset
 - Annotate training and test images using [Roboflow](https://roboflow.com/)
 - Train, validate, and test the model using [Roboflow workflow for Object Detection using YOLOv8](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb?ref=blog.roboflow.com)
+
+Dataset: The dataset is publicly available at Roboflow universe and can be accessed [here](https://universe.roboflow.com/computer-vision-course-project/karachi-plant-identification-dataset/dataset/1)
+
